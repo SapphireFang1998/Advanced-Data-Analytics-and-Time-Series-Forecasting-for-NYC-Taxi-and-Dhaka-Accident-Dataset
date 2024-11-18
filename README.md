@@ -78,8 +78,8 @@ For any questions or further inquiries, please feel free to reach out:
 
 - **Arman Hasan Mahy**
   
-- **Azizah Hasan Abha**
-    
+- **Azizah Mamun Abha**
+    - Email: [abha.azizah800@gmail.com](mailto:abha.azizah800@gmail.com)
 ## Citation
 
 If you find the research work helpful, please consider citing our paper:
