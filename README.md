@@ -77,12 +77,10 @@ For any questions or further inquiries, please feel free to reach out:
   - Email: [n.a.refat2000@gmail.com](mailto:n.a.refat2000@gmail.com)
 
 - **Arman Hasan Mahy**
+  - Email: [say2mahy@gmail.com](mailto:say2mahy@gmail.com)
   
 - **Azizah Mamun Abha**
-    - Email: [abha.azizah800@gmail.com](mailto:abha.azizah800@gmail.com)
-## Citation
-
-If you find the research work helpful, please consider citing our paper:
+  - Email: [abha.azizah800@gmail.com](mailto:abha.azizah800@gmail.com)
 
 ## License
 [MIT License](LICENSE)
